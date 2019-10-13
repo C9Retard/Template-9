@@ -75,7 +75,7 @@ header > p {
 
 .socials::after{
     content: '|';
-    color: #00cfe2;
+    color: #ffa500;
 }
 
 .social-icons{
@@ -89,7 +89,7 @@ header > p {
 
 .social-icons::after{
     content: ']';
-    color: #00cfe2;
+    color: #ffa500;
 }
 
  html, body, .full {
