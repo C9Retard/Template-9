@@ -84,7 +84,7 @@ header > p {
 
 .social-icons::before{
     content: '[';
-    color: #00cfe2;
+    color: #ffa500;
 }
 
 .social-icons::after{
