@@ -1,4 +1,4 @@
-(function($) {
+function($) {
   var duration = 5000;  // change this to change rotation time in milliseconds
   var current = 1;
   var tricker = $(".subhead");
