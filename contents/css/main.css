@@ -69,15 +69,7 @@ header > p {
     text-align: center;
 }
 
-.socials::before{
-    content: '|';
-    color: #ffa500;
-}
 
-.socials::after{
-    content: '|';
-    color: #ffa500;
-}
 
 .social-icons{
     display: inline-block;
