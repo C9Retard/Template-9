@@ -103,9 +103,9 @@ header > p {
 }
  .vignette {
      background: -webkit-repeating-linear-gradient(top, transparent 0px, transparent 1px, rgba(0, 0, 0, 0.25) 1px, rgba(0, 0, 0, 0.25) 2px);
-     -webkit-background-size: 100% 2px;
+     -webkit-background-size: 200% 4px;
      background: -moz-repeating-linear-gradient(top, transparent 0px, transparent 1px, rgba(0, 0, 0, 0.25) 1px, rgba(0, 0, 0, 0.25) 2px);
-     -moz-background-size: 100% 2px;
+     -moz-background-size: 200% 4px;
 }
 .vignette {color:purple}
 /* Media Queries for responsiveness */
