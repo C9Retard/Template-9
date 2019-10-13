@@ -64,13 +64,13 @@ header > p {
 
 .socials{
     font-family: 'Abel', sans-serif;
-    color: #fff;
+    color: #add8e6;
     text-align: center;
 }
 
 .socials::before{
     content: '|';
-    color: #00cfe2;
+    color: #ffa500;
 }
 
 .socials::after{
