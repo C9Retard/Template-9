@@ -159,3 +159,18 @@ header > p {
        padding-bottom: 8px;
     }
 }
+.textfieldCommon {
+    display:block;
+}
+.textfield1 {
+    color:red;
+}
+.textfield2 {
+    color: blue;
+}
+.textfield3 {
+    color: black;
+}
+.textfield4 {
+    color:green;
+}
