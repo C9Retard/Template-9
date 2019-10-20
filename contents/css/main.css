@@ -33,7 +33,7 @@ header {
 }
 
 header > h1 {
-    color: #ffa500;
+    color:  #b19cd9;
     font-family: 'Cabin', sans-serif;
     font-size: 100px;
     padding-bottom: 20px;
@@ -54,7 +54,7 @@ header > p {
   transition: all 0.7s;
 }
 .subhead p {
-  color: #ffa500;
+  color:  #b19cd9;
   margin: 0;
   height: 50px;
   line-height: 50px;
@@ -77,12 +77,12 @@ header > p {
 
 .social-icons::before{
     content: '[';
-    color: #ffa500;
+    color:  #b19cd9;
 }
 
 .social-icons::after{
     content: ']';
-    color: #ffa500;
+    color: #b19cd9;
 }
 
  html, body, .full {
